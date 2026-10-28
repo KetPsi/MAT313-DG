@@ -12,7 +12,7 @@
 
 | Lecture | Topics | Typed notes | Handwritten / PDF |
 | :--: | :--- | :---: | :---: |
-| 01 | Parametrized curves and regularity | [Lecture 01](/handwritten\notes) | — |
+| 01 | Parametrized curves and regularity | [Lecture 01](/handwritten\notes/MAT313L01.pdf) | — |
 
 ## Recommended references
 
