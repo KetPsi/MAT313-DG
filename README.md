@@ -6,13 +6,12 @@
 > **Semester:** Fall 2026
 > **Instructor:** *Prof. Syed Hasibul Hassan Chowdhury*
 
-
 ## Lecture outline
-> **Typed notes:** [MAT313_DG]()
+> **Typed notes:** [MAT313_DG](#)
 
 | Lecture | Topics | Typed notes | Handwritten / PDF |
 | :--: | :--- | :---: | :---: |
-| 01 | Parametrized curves and regularity | [Lecture 01]( /handwritten notes/MAT313-L01.pdf ) | — |
+| 01 | Parametrized curves and regularity | [Lecture 01](/handwritten%20notes/MAT313-L01.pdf) | — |
 
 ## Recommended references
 
