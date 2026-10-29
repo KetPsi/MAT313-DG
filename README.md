@@ -1,4 +1,4 @@
-# Differential Geometry of Curves and Surfaces
+# Differential Geometry for Curves and Surfaces
 
 > **Course title:** Differential Geometry for Curves and Surfaces  
 > **Course code:** `MAT313`
@@ -7,7 +7,7 @@
 > **Instructor:** *Prof. Syed Hasibul Hassan Chowdhury*
 
 ## Lecture outline
-> **Typed notes:** [MAT313_DG](#)
+> **Typed notes:** [MAT313_DG](MAT313_DG.pdf)
 
 ## Reference text
 
