@@ -7,7 +7,7 @@
 > **Instructor:** *Prof. Syed Hasibul Hassan Chowdhury*
 
 ## Lecture outline
-> **Typed notes:** [MAT313_DG](MAT313_DG.pdf)
+> **Typed notes (on going):** [MAT313_DG](https://ketpsi.github.io/MAT313-DG/MAT313_DG.pdf)
 
 ## Reference text
 
